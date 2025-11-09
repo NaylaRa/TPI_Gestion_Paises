@@ -43,7 +43,7 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 
 
 ## 🧾 Integrantes
-- Antonella Raiolo  
+- Nayla Raiolo  
 - Alma Acosta
 
 ---
@@ -76,4 +76,5 @@ lectura y escritura de archivos
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
