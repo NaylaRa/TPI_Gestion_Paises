@@ -55,6 +55,10 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 - [Búsqueda de país](captura_busqueda.png)  
 - [Estadísticas](captura_estadisticas.png)  
 - [Agregar nuevo país](captura_agregar.png) 
+
+---
+
+
 🎥 **Video de presentación:**  
 
 
@@ -76,5 +80,6 @@ lectura y escritura de archivos
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
 
