@@ -72,14 +72,15 @@ https://docs.python.org/3/tutorial/controlflow.html
 https://docs.python.org/3/library/csv.html
 https://docs.python.org/3/library/functions.html
 https://docs.python.org/3/howto/sorting.html
-diccionarios:
+## diccionarios:
 https://docs.python.org/3/tutorial/datastructures.html#dictionaries
-comprensiones de listas:
+## comprensiones de listas:
 https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 lectura y escritura de archivos
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
 
 
