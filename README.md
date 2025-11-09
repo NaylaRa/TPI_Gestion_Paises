@@ -42,15 +42,15 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 6. Guardar y salir
 
 
-## 🧾 Integrantes
+## Integrantes
 - Nayla Raiolo  
 - Alma Acosta
 
 ---
 
-## 📄 Presentación y recursos
-📘 **Informe PDF:** [TPI_Gestion_Paises_Presentacion.pdf](TPI_Gestion_Paises_Presentacion.pdf)  
-🖼️ **Capturas:**  
+## Presentación y recursos
+ **Informe PDF:** [TPI_Gestion_Paises_Presentacion.pdf](TPI_Gestion_Paises_Presentacion.pdf)  
+ **Capturas:**  
 - [Menú principal](captura_menu.png)  
 - [Búsqueda de país](captura_busqueda.png)  
 - [Estadísticas](captura_estadisticas.png)  
@@ -59,12 +59,12 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 ---
 
 
-🎥 **Video de presentación:**  
+ **Video de presentación:**  
 
 
 ---
 
-## 📚 Referencias
+## Referencias
 https://docs.python.org/3/tutorial/
 https://docs.python.org/3/tutorial/datastructures.html
 https://docs.python.org/3/tutorial/controlflow.html#defining-functions
@@ -80,6 +80,7 @@ https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
 
 
