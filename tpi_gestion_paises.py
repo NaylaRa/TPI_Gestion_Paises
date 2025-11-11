@@ -1,7 +1,7 @@
 import csv
 import os
 
-# Encabezado esperado del archivo CSV
+# ======================== CONFIGURACIÓN ========================
 CSV_HEADER = ['nombre', 'poblacion', 'superficie', 'continente']
 
 # ======================== FUNCIONES DE UTILIDAD ========================
@@ -172,14 +172,15 @@ def buscar_pais(paises):
 # ======================== FILTROS ========================
 
 def filtrar_por_continente(paises):
-    """Filtra países por continente ingresado."""
-    cont = input("Continente: ").strip().title()
-    resultados = [p for p in paises if p['continente'] == cont]
+    """Filtra países por continente ingresado (acepta coincidencias parciales)."""
+    cont = input("Continente: ").strip().lower()
+    resultados = [p for p in paises if cont in p['continente'].lower()]
     if not resultados:
         print(" No hay países para ese continente.")
         return
+    print(f"\n--- Países en continentes que coinciden con '{cont}' ---")
     for p in resultados:
-        print(f"- {p['nombre']}: {p['poblacion']} hab., {p['superficie']} km²")
+        print(f"- {p['nombre']}: {p['poblacion']} hab., {p['superficie']} km² ({p['continente']})")
 
 
 def filtrar_rango_poblacion(paises):
