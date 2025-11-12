@@ -60,7 +60,7 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 
 
  **Video de presentación:**  
-
+  https://youtu.be/IgzI4cJPq7Q
 
 ---
 
@@ -80,6 +80,7 @@ https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
 
 
