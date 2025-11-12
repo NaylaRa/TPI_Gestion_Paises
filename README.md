@@ -43,8 +43,8 @@ El objetivo es construir una aplicación en **Python** que permita gestionar inf
 
 
 ## Integrantes
-- Nayla Raiolo  
-- Alma Acosta
+- Nayla Raiolo (comision 11)  
+- Alma Acosta (comision 1)
 
 ---
 
@@ -80,6 +80,7 @@ https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://docs.python.org/3/library/csv.html
  
+
 
 
 
